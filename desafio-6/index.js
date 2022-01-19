@@ -1,5 +1,5 @@
 function somar(numero1,numero2){
-    let soma = numero1 + numero2;
+    const soma = numero1 + numero2;
     return ( "A soma dos dois números e: " + soma)
 }
 soma = somar(1 , 3)
