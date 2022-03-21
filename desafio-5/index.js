@@ -1,3 +1,4 @@
-for(let x = 0; x < 11; x++){
-    console.log("O dobro do número x é:", + x*2)
+for(let numero = 0; numero < 11; numero++){
+    const dobro = numero * 2
+    console.log(`O dobro do número ${numero} é ${dobro}`)
 }

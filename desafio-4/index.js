@@ -1,3 +1,5 @@
-for(let cont = 0; cont < 11; cont++){
-    console.log("O número atual é o:", + cont)
+for(let contador = 0; contador < 11; contador++){
+
+     console.log(`O número atual é o: ${contador}`)
 }
+

@@ -5,5 +5,3 @@ if( vaiSeHospedar === true){
 }else if(vaiSeHospedar === false){
     alert("Que pena! Você parecia ser uma pessoa mais legal")
 }
-
-console.log(vaiSeHospedar)

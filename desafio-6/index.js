@@ -27,5 +27,5 @@ function multipicacao(numero1, numero2) {
     let multiplicar = numero1 * numero2;
     return ('A multiplicação dos dois números é: ' + multiplicar);
 }
-multipicar = multipicacao(10, 2)
-console.log(multipicar)
+multiplicar = multipicacao(10, 2)
+console.log(multiplicar)
